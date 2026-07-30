@@ -1,4 +1,8 @@
 {
-  'version_link': '1.0',
-'link': 'https://zcine.pythonanywhere.com'
+  "version_link": "1.0",
+  "api": "https://zcine.pythonanywhere.com",
+  "status": "online",
+  "maintenance": false,
+  "message": "",
+  "min_version": 1
 }
