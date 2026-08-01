@@ -4,5 +4,7 @@
   "status": "online",
   "maintenance": false,
   "message": "",
-  "min_version": 1
+  "min_version": 1,
+  "mpesa": true,
+  "emola": false
 }
