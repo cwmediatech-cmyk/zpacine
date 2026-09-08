@@ -6,5 +6,5 @@
   "message": "O Sistema esta em manutenção, Desculpe pelos transtornos causados",
   "min_version": 1,
   "mpesa": true,
-  "emola": false
+  "emola": true
 }
