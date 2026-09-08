@@ -3,7 +3,7 @@
   "api": "https://zcineway.pythonanywhere.com",
   "status": "online",
   "maintenance": true,
-  "message": "",
+  "message": "O Sistema esta em manutenção",
   "min_version": 1,
   "mpesa": true,
   "emola": false
