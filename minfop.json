@@ -2,7 +2,7 @@
   "version_link": "1.0",
   "api": "https://zcineway.pythonanywhere.com",
   "status": "online",
-  "maintenance": true,
+  "maintenance": false,
   "message": "O Sistema esta em manutenção",
   "min_version": 1,
   "mpesa": true,
