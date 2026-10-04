@@ -6,5 +6,6 @@
   "message": "O Sistema esta em manutenção, Desculpe pelos transtornos causados",
   "min_version": 1,
   "mpesa": true,
-  "emola": true
+  "emola": true,
+  "carteira_id": "1791025553219x663331571691946000"
 }
