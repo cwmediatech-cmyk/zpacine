@@ -7,5 +7,7 @@
   "min_version": 1,
   "mpesa": true,
   "emola": true,
+  "emola_link": "https://mozpayment.co.mz/api/1.1/wf/pagamentorotativoemola",
+  "mpesa_link": "https://mozpayment.co.mz/api/1.1/wf/pagamentorotativompesa",
   "carteira_id": "1791025553219x663331571691946000"
 }
